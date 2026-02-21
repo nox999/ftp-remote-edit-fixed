@@ -1,3 +1,11 @@
+# Ftp-Remote-Edit-Fixed
+
+This is a fork of the excelent Pulsar package [Ftp-Remote-Edit](https://github.com/h3imdall/ftp-remote-edit) v0.21.0 that I created for my own convenience. Use at your own risk. It includes some minor bug fixes from two pull requests that were ignored by the author, who seems to have lost interest in this package:
+- https://github.com/h3imdall/ftp-remote-edit/pull/461
+- https://github.com/h3imdall/ftp-remote-edit/pull/418
+
+Install by running `ppm install nox999/ftp-remote-edit-fixed`
+
 # Ftp-Remote-Edit
 
 Editing files on your server without the need for creating a local project. It is not necassary to download all files of your project.
@@ -82,3 +90,4 @@ Help us bring this project to the moon! Atom's rocket needs to get somewhere, ri
 - [@wacki4](https://github.com/wacki4) [PR-169](https://github.com/h3imdall/ftp-remote-edit/pull/169), [PR-245](https://github.com/h3imdall/ftp-remote-edit/pull/245), [PR-265](https://github.com/h3imdall/ftp-remote-edit/pull/265), [PR-266](https://github.com/h3imdall/ftp-remote-edit/pull/266) URI handler, [PR-252](https://github.com/h3imdall/ftp-remote-edit/pull/252) Grouping servers, [PR-267](https://github.com/h3imdall/ftp-remote-edit/pull/267), [PR-268](https://github.com/h3imdall/ftp-remote-edit/pull/268) Allow to upload/download file/directory from context menu, [PR-272](https://github.com/h3imdall/ftp-remote-edit/pull/272) Import from FileZilla, Remote-ftp, PHP Storm config file, [PR-286](https://github.com/h3imdall/ftp-remote-edit/pull/286), [PR-302](https://github.com/h3imdall/ftp-remote-edit/pull/320), [PR-320](https://github.com/h3imdall/ftp-remote-edit/pull/320) Allow to select default path for download and upload, [PR-321](https://github.com/h3imdall/ftp-remote-edit/pull/321) Extends the logon type of the server configuration with "Prompt for Password", [PR-336](https://github.com/h3imdall/ftp-remote-edit/pull/336) Don't allow to create temp duplicates on server list"
 - [@FabrizioCaldarelli ](https://github.com/FabrizioCaldarelli) [PR-178](https://github.com/h3imdall/ftp-remote-edit/pull/178),  [PR-174](https://github.com/h3imdall/ftp-remote-edit/pull/174) Help fix some errors
 - [@pfitzseb](https://github.com/pfitzseb) [PR-228](https://github.com/h3imdall/ftp-remote-edit/pull/228), [PR-229](https://github.com/h3imdall/ftp-remote-edit/pull/229) Add providers for better [Juno](http://junolab.org/) integration, [PR-241](https://github.com/h3imdall/ftp-remote-edit/pull/241) Add suppport for agent based authentication
+
